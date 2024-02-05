@@ -65,6 +65,7 @@ function App() {
 
   function handleAddProject(projectData) {
     setProjectsState((prevState) => {
+      console.log("Test");
       const projectId = Math.random();
       const newProject = {
         ...projectData,
