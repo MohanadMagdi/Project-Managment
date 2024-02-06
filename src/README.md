@@ -1,6 +1,6 @@
 # Project Managment Web app
 
-# Vite React tailwind Starter
+# Vite React TailwindCSS Starter
 
 This is a [Vite](https://vitejs.dev/) and [React](https://reactjs.org/) project bootstrapped using vite-react-starter created by [Mohanad Magdi](https://github.com/MohanadMagdi/Project-Managment.git).
 
